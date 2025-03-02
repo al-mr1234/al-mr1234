@@ -61,16 +61,8 @@
            <a style="margin-left: 10px;" target="_blank" href="https://">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
 		
-      </div>
 
 </p>
 
-
-	
-
 </div>
 
-
-------
-[Mahdiiye](https://github.com/Mahdiiye)
-Last Edited on: 19/01/2023
