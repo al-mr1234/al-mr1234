@@ -8,6 +8,15 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
+Soy una desarrolladora apasionada por el **frontend y backend**, en constante aprendizaje. Actualmente, estoy aprendiendo **Python y JavaScript**, y mejorando mi nivel de inglés.  
+
+🛠️ **Tecnologías que uso:**  
+✔️ Django, Python, javascript
+✔️ Bootstrap, Semantic 
+✔️ MySQL  
+✔️ Git, Docker
+
+
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning software architecture
 - 👯 I’m looking to collaborate on your open source projects
