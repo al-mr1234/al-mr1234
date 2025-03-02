@@ -11,10 +11,10 @@
 Soy una desarrolladora apasionada por el **frontend y backend**, en constante aprendizaje. Actualmente, estoy aprendiendo **Python y JavaScript**, y mejorando mi nivel de inglés.  
 
 🛠️ **Tecnologías que uso:**  
-✔️ Django, Python, javascript
-✔️ Bootstrap, Semantic 
-✔️ MySQL  
-✔️ Git, Docker
+- Frontend: React, Bootstrap, semantic, JavaScript, HTML, CSS  
+- Backend: Python, Node.js  
+- Bases de datos: MySQL, PostgreSQL  
+- Herramientas: Git, Docker, Linux, VS Code  
 
 
 - 🔭 I’m currently working on my side projects
