@@ -36,6 +36,10 @@ Soy una desarrolladora apasionada por el **frontend y backend**, en constante ap
    <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
    <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
    <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
+   <img src="https://user-images.githubusercontent.com/64439609/212556296-4a8e4f17-6cb8-4a7f-83ed-97f1645e1c29.png" width="40" height="40" alt="Python"/>
+   <img src="https://user-images.githubusercontent.com/64439609/212556256-7a927d9b-3a56-463f-a3f1-548d83d93bce.png" width="40" height="40" alt="React"/>
+   <img src="https://user-images.githubusercontent.com/64439609/212556228-5925b524-5411-42c5-885b-cd7eab3020e5.png" width="40" height="40" alt="GitHub"/>
+   <img src="https://user-images.githubusercontent.com/64439609/212556266-f5b36280-34c7-4d92-bd7a-b1d926e733e4.png" width="40" height="40" alt="Database"/>
 
 
 
