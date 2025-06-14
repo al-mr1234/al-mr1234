@@ -5,6 +5,7 @@
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+	 <img src="https://img.shields.io/badge/Focus-Front--End%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
@@ -20,10 +21,7 @@ Soy una desarrolladora apasionada por el **frontend y backend**, en constante ap
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning software architecture
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
-- 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+
 
 <br>
 
